@@ -219,3 +219,11 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/s1/index.m3u8|Referer=http:
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Uji Coba Bot",INDOSIAR
 http://nonton.wap.sh/id/002.m3u8
+#EXTINF:-1 group-title="Uji Coba Bot",Mojitv
+https://odmedia-mojitv-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Uji Coba Bot",MOJI 1*
+https://kodonolonz.serv00.net/tol/ikitv-moji.m3u8
+#EXTINF:-1 group-title="Uji Coba Bot",MOJI TV - SD
+https://bit.ly/3tMoswx
+#EXTINF:-1 group-title="Uji Coba Bot",MOJI TV
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
