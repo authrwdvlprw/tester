@@ -155,3 +155,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hd
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_24.m3u8
 #EXTINF:-1 infohash="d82bf881231c114915379919a2afffaeb5eb5fee",HBO HD [PL]
 http://88.99.165.164:6878/ace/getstream?id=bb497b248bb728dbe27f731f084e06462c05a04c
+#EXTINF:-1 group-title="Uji Coba Bot",Indosiar
+http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
+#EXTINF:-1 group-title="Uji Coba Bot",Indosiar HD
+http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
