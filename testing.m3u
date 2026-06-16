@@ -245,3 +245,9 @@ http://h5n.co:80/live/mrjk990/123@123/393163.m3u8
 https://e48a682b976e4155be8faea47f3b632c:bc47d6b9a9d0478a80d7eada933bcb92@cdnjkt913.transvision.co.id:1003/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",SET iNews
 https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+#EXTINF:-1 group-title="Uji Coba Bot",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="Uji Coba Bot",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 group-title="Uji Coba Bot",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
