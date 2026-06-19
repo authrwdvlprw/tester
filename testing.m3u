@@ -28,3 +28,5 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",SCTV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+#EXTINF:-1 group-title="Uji Coba Bot",TVRI (Piala Dunia 2026)
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
