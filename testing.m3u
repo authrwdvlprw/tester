@@ -1,423 +1,632 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Piala Dunia 2026 [100%]
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVP Sport [100%]
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",JOJ SPORT [100%]
 https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",CT SPORT [100%]
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Africa 24 Sport 1080p [100%]
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",ACI Sport TV 1080p [100%]
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Fox Sport Fifa [100%]
 http://84.17.50.102/fox/index.m3u8
+http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TPV Sport [100%]
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Prima Sport 1
 https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Prima Sport 2
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Prima Sport 3
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",SLOVAKIA Nova Sport 1
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",SLOVAKIA Nova Sport 2
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",SLOVAKIA SPORT 1
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",SLOVAKIA SPORT 2
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Aceh 720p
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Bali 480p
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Bangka Belitung 480p
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Bengkulu 480p
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Gorontalo 480p
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Jambi 720p Not 247
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Jawa Barat 480p
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Jawa Tengah 720p
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Jawa Timur 720p
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Kalimantan Barat 480p
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Kalimantan Selatan 720p
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Kalimantan Tengah 480p
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Kalimantan Timur 720p
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Lampung 720p
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Maluku 480p
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI North Sulawesi 1080p
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI North Sumatra 1080p
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Nusa Tenggara Barat 720p
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Nusa Tenggara Timur 480p
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Papua 480p
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Riau 720p Not 247
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Sulawesi Barat 720p
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Sulawesi Selatan 480p
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Sulawesi Tengah 720p
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Sulawesi Tenggara 480p
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Sumatera Barat 720p
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Sumatera Selatan 480p
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI West Papua 1080p
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TVRI Yogyakarta 720p
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",TransTV HD [100%]
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Metro TV [100%]
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",RCTI HD V [100%]
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Indosiar V [100%]
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",TransTV HD V [100%]
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Trans7 HD V [100%]
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Kompas TV HD V [100%]
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Metro TV V [100%]
+https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",SIN PO TV [100%]
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Nusantara TV ChannelFeed [100%]
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",HBO Signature Alt 2 [100%]
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Indonesiana TV ChannelFeed [100%]
+https://tvstreamcast.com/indonesiana.m3u8
 https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",HitsMovies V [100%]
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",STUDIO UNIVERSAL V [100%]
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",TAPMOVIES HD [100%]
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",PICTURES HD [100%]
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Thriil V [100%]
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Celestial Movies V [100%]
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Celestial Classic Movies V [100%]
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",ORIGINALS V [100%]
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",SUPERRIX V [100%]
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",TvN movies HD V [100%]
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Outdoor Channel V [100%]
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",History HD V [100%]
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",HISTORY US [100%]
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
+https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Nat Geo Sharks [100%]
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Discovery Channel [100%]
 https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Love Nature V [100%]
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Global Trekker V [100%]
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Crime Investigation V [100%]
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Rock Action V [100%]
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Rock Entertainment V [100%]
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Fashion TV [100%]
 https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",CelebritiesTV V [100%]
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",ABC Cartoons [100%]
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Buddy Star V [100%]
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Mentari TV V [100%]
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Mentari TV [100%]
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 #EXTINF:-1 group-title="Uji Coba Bot",beIN Sports 1 Indonesia [100%]
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",beIN Sports 2 Indonesia [100%]
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",beIN Sports 3 Indonesia [100%]
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",SpoTV V [100%]
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",SpoTV 2 V [100%]
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",SPOTV NOW [100%]
+https://slive.mana2.my/SpotvNow/index.mpd
 https://slive.mana2.my/SpotvNow/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Fight Sports [100%]
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Sportstarsᴴᴰ [100%]
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Sportstars 2ᴴᴰ [100%]
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Sportstars 3ᴴᴰ [100%]
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Sportstars 4 ᴴᴰ [100%]
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Astro Awani [100%]
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
 #EXTINF:-1 group-title="Uji Coba Bot",Macau Variety Show [100%]
 http://cdn6.163189.xyz/163189/amzy
+http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 group-title="Uji Coba Bot",JTV Kediri [100%]
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Jawapos TV Semarang [100%]
 http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
+http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Jawapos TV Madiun [100%]
+http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Jawapos TV Jakarta [100%]
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Jawapos TV Bali [100%]
+http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Kilisuci TV Kediri [100%]
 https://5bf7b725107e5.streamlock.net/kstv/kstv/chunklist_w1799577873.m3u8
+https://5bf7b725107e5.streamlock.net/kstv/kstv/chunklist_w1799577873.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Dhoho TV- Kediri [100%]
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Timor TV [100%]
 http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
+http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Salira TV [100%]
+https://live.salira.tv/p/3870/hybrid/play.m3u8
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",StaraTV Sumedang [100%]
 https://stream.staratv.id/hls/0/stream.m3u8
+https://stream.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",StaraTV Malang [100%]
+https://malang.staratv.id/hls/0/stream.m3u8
 https://malang.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",StaraTV Cianjur [100%]
 https://cianjur.staratv.id/hls/0/stream.m3u8
+https://cianjur.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",i-Radio Jakarta [100%]
+https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
 https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
 #EXTINF:-1 group-title="Uji Coba Bot",Weathernews 720p [100%]
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Arirang TV 1080p [100%]
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Arirang TV HD [100%]
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Aaseervatham TV 576p [100%]
+https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Bilyonaryo News Channel 1080p [100%]
 https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
+https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",FilAmTV Network 1080p [100%]
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Mindanow Network TV 1080p [100%]
 https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Alanya Posta TV 1080p [100%]
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Almahriah TV 576p [100%]
 https://starmenajo.com/hls/almahriah/index.m3u8
+https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Bloomberg HT 720p [100%]
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",BRTV 720p Geo-blocked [100%]
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Al Wousta TV 1080p [100%]
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Nour TV [100%]
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Al Quran Al Kareem TV 1080p [100%]
+https://aloula-redirect.vercel.app/7/playlist.m3u8
 https://aloula-redirect.vercel.app/7/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Advocate Broadcasting Network 576p [100%]
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Approval TV 720p [100%]
+https://live.approvaltv.com/approvaltv/index.m3u8
 https://live.approvaltv.com/approvaltv/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",BCS StarCross TV 576p [100%]
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Bride TV 576p [100%]
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Adventure Earth 1080p [100%]
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Afrobeats 1080p [100%]
+https://stream.ecable.tv/afrobeats/index.m3u8
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Anthony Bourdain Parts Unknown [100%]
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
+https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Autentic History 1080p [100%]
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Autentic Travel 1080p [100%]
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",3ABN Kids Network [100%]
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",3ABN Praise Him Music Network [100%]
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",3ABN Proclaim Network [100%]
+https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",30A Darcizzle Offshore 720p [100%]
 https://30a-tv.com/darcizzle.m3u8
+https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",30A Georgia Hollywood Review TV 720p [100%]
+https://30a-tv.com/gh.m3u8
 https://30a-tv.com/gh.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",30A Investment Pitch 720p [100%]
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",30A Loomered TV [100%]
+https://30a-tv.com/loomer.m3u8
 https://30a-tv.com/loomer.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",30A Luxe Life Discovered 720p [100%]
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
+https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",30A Ridiculous TV 720p [100%]
+https://30a-tv.com/feeds/720p/63.m3u8
 https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",30A Television Channel 720p [100%]
 https://30a-tv.com/feeds/masters/30atv.m3u8
+https://30a-tv.com/feeds/masters/30atv.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",30A TV Classic Movies 720p [100%]
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",30A We Love Cars 720p [100%]
 https://30a-tv.com/feeds/vidaa/cars.m3u8
+https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Augsburg TV 1080p [100%]
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",20 Minutes TV 1080p [100%]
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",3Cat Plats bruts 1080p [100%]
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",8 La Marina TV 576p [100%]
 https://streaming005.gestec-video.com/hls/canal24.m3u8
+https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",51 Radio TV 480p Geo-blocked [100%]
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Adrenalina Pura TV [100%]
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Angel TV Portuguese 720p [100%]
+https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Azteca Internacional 1080p [100%]
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",B15 Fresnillo 1080p [100%]
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Argentinísima Satelital 540p [100%]
 https://stream1.sersat.com/hls/argentinisima.m3u8
+https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Amaga Television 720p [100%]
+https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
 https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Cable Sur TV [100%]
 https://tvlatina.live:1936/8025/8025/playlist.m3u8
+https://tvlatina.live:1936/8025/8025/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",alpha Moretime 1080p [100%]
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",SRK TV [100%]
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",DD Sports [100%]
+https://cdn-6.pishow.tv/live/13/master.m3u8
 https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Sky Sports [100%]
 https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
+https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",D Sports [100%]
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Bein Sports Direct [100%]
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Live Quran TV [100%]
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Bein Sports 1 [100%]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Bein Sports Tekrar [100%]
+https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",QURAN RADIOTV SMC [100%]
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Travel XP English [100%]
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Travel XP English NZ [100%]
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Rongeen TV [100%]
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Colors Infinity SD [100%]
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Iran InternationalEN [100%]
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Arihant TV [100%]
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
+https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Doraemon TV [100%]
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Star Sports 1 HD [100%]
 http://41.205.93.154/STARSPORTS1/index.m3u8
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Action Hollywood Movies [100%]
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",HBO Signature
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",CGTN DOCUMENTARY V
+https://cdn.nng.cloudns.us/live/m3u8/knl/0d3dbf8c78f1fb7.m3u8
 https://cdn.nng.cloudns.us/live/m3u8/knl/0d3dbf8c78f1fb7.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Vision Prime V
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",EuroSport 1
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",EuroSport 2
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",Caruban TV 1080p
+https://stream.carubantv.id/hls/0/stream.m3u8
 https://stream.carubantv.id/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Music Information Channel 720p
 https://mic.siar.us/mic/live/mic.m3u8
+https://mic.siar.us/mic/live/mic.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Stara TV Bandung 1080p
+https://bandung.staratv.id/hls/0/stream.m3u8
 https://bandung.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",RCTV 576p Not 247
 https://v10.siar.us/rctv/live/playlist.m3u8
+https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",SMTV 720p Not 247
+http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",ONE SPORTS HD
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
-#EXTINF:-1 group-title="Uji Coba Bot",PREMIER SPORTS
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
 #EXTINF:-1 group-title="Uji Coba Bot",CBS Sports HQ
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 #EXTINF:-1 group-title="Uji Coba Bot",CBS Golazo Network
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 #EXTINF:-1 group-title="Uji Coba Bot",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",13 Bomb Di Jakarta
+https://pixeldrain.com/api/file/ezqDwxkK?download
 https://pixeldrain.com/api/file/ezqDwxkK?download
 #EXTINF:-1 group-title="Uji Coba Bot",Hamka Siti Raham Vol 2
 https://pixeldrain.com/api/file/ZQVckcfF?download
+https://pixeldrain.com/api/file/ZQVckcfF?download
 #EXTINF:-1 group-title="Uji Coba Bot",Layangan Putus The Movie
+https://pixeldrain.com/api/file/6fwxFxx9?download
 https://pixeldrain.com/api/file/6fwxFxx9?download
 #EXTINF:-1 group-title="Uji Coba Bot",Mohon Doa Restu
 https://pixeldrain.com/api/file/fNKYLoB8?download
+https://pixeldrain.com/api/file/fNKYLoB8?download
 #EXTINF:-1 group-title="Uji Coba Bot",Surga Di Bawah Langit
+https://pixeldrain.com/api/file/wbFWgdQ1?download
 https://pixeldrain.com/api/file/wbFWgdQ1?download
 #EXTINF:-1 group-title="Uji Coba Bot",Pasutri Gaje
 https://pixeldrain.com/api/file/6sQfgr9z?download
+https://pixeldrain.com/api/file/6sQfgr9z?download
 #EXTINF:-1 group-title="Uji Coba Bot",Kisah Tanah Jawa Pocong Gundul
+https://pixeldrain.com/api/file/xTZuUgAW?download
 https://pixeldrain.com/api/file/xTZuUgAW?download
 #EXTINF:-1 group-title="Uji Coba Bot",Saranjana Kota Ghaib
 https://pixeldrain.com/api/file/vUGDTTXc?download
+https://pixeldrain.com/api/file/vUGDTTXc?download
 #EXTINF:-1 group-title="Uji Coba Bot",Dubai TV International 1080p
+http://185.9.2.18/chid_139/index.m3u8
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",BabyTV France HD 720p
 http://41.223.30.230/BABYTV/index.m3u8
+http://41.223.30.230/BABYTV/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Band Sports 1080p
+https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",AXN Latin America Mexico
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",ANC Television 720p
+https://live.amelbatv.co:81/anctvlive/index.m3u8
 https://live.amelbatv.co:81/anctvlive/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Aupur Television 1080p
 https://canal.aupurtv.co/live/stream/index.m3u8
+https://canal.aupurtv.co/live/stream/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Maasranga TV 720p
+https://trs1.aynaott.com/maasrangatv/index.m3u8
 https://trs1.aynaott.com/maasrangatv/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Duronto TV 720p
 https://trs1.aynaott.com/duronto/index.m3u8
+https://trs1.aynaott.com/duronto/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",T Sports 720p
+https://trs1.aynaott.com/tsports/index.m3u8
 https://trs1.aynaott.com/tsports/index.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Unite Sports FIFA Hindi
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Gopal Bhar TV
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",Tom Jerry TV
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Uji Coba Bot",South Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
